@@ -1,6 +1,6 @@
 (validate
    '((A B C D E F G)
-  ({ })
+  (w 7)
   ((A w B) 
    (B w C) (B 7 D)
    (C w E) (C 7 D)
